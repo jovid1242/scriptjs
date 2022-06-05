@@ -8,8 +8,8 @@ function block() {
     </h1>
   </center>
   `;
-  // body[0].innerHTML = demoBody;
+  body[0].innerHTML = demoBody;
   // body[0].style.display = "none";
 }
 
-// block();
+block();
